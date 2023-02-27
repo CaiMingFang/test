@@ -1,0 +1,12 @@
+/* pages/me/me.wxss */
+.page {
+  background-color: #f2f2f2;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
